@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: abec570cdf8cbbe4b9f9319a7400de90
+timeCreated: 1496884449
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle2_L
+    100002: Ankle2_R
+    100004: Ankle_L
+    100006: Ankle_R
+    100008: Body
+    100010: Chest_M
+    100012: DeformationSystem
+    100014: Elbow2_L
+    100016: Elbow2_R
+    100018: Elbow2Part1_L
+    100020: Elbow2Part1_R
+    100022: Elbow2Part2_L
+    100024: Elbow2Part2_R
+    100026: Eye_L
+    100028: Eye_R
+    100030: EyeEnd_L
+    100032: EyeEnd_R
+    100034: geo
+    100036: Head_M
+    100038: HeadEnd_M
+    100040: Hip2_L
+    100042: Hip2_R
+    100044: Hip2Part1_L
+    100046: Hip2Part1_R
+    100048: Hip2Part2_L
+    100050: Hip2Part2_R
+    100052: Hip_L
+    100054: Hip_R
+    100056: HipPart1_L
+    100058: HipPart1_R
+    100060: HipPart2_L
+    100062: HipPart2_R
+    100064: Jaw_M
+    100066: JawEnd_M
+    100068: Knee_L
+    100070: Knee_R
+    100072: left
+    100074: Left_Blade
+    100076: LongToe2_L
+    100078: LongToe2_R
+    100080: Lower_Pauldrons
+    100082: //RootNode
+    100084: Neck_M
+    100086: NeckPart1_M
+    100088: NeckPart2_M
+    100090: Right_Blade
+    100092: Root_M
+    100094: RootPart1_M
+    100096: RootPart2_M
+    100098: Scapula_L
+    100100: Scapula_R
+    100102: shaderAssign
+    100104: Spine1_M
+    100106: Spine1Part1_M
+    100108: Spine1Part2_M
+    100110: Toes2_L
+    100112: Toes2_R
+    100114: Toes_L
+    100116: Toes_R
+    100118: Upper_Pauldrons
+    400000: Ankle2_L
+    400002: Ankle2_R
+    400004: Ankle_L
+    400006: Ankle_R
+    400008: Body
+    400010: Chest_M
+    400012: DeformationSystem
+    400014: Elbow2_L
+    400016: Elbow2_R
+    400018: Elbow2Part1_L
+    400020: Elbow2Part1_R
+    400022: Elbow2Part2_L
+    400024: Elbow2Part2_R
+    400026: Eye_L
+    400028: Eye_R
+    400030: EyeEnd_L
+    400032: EyeEnd_R
+    400034: geo
+    400036: Head_M
+    400038: HeadEnd_M
+    400040: Hip2_L
+    400042: Hip2_R
+    400044: Hip2Part1_L
+    400046: Hip2Part1_R
+    400048: Hip2Part2_L
+    400050: Hip2Part2_R
+    400052: Hip_L
+    400054: Hip_R
+    400056: HipPart1_L
+    400058: HipPart1_R
+    400060: HipPart2_L
+    400062: HipPart2_R
+    400064: Jaw_M
+    400066: JawEnd_M
+    400068: Knee_L
+    400070: Knee_R
+    400072: left
+    400074: Left_Blade
+    400076: LongToe2_L
+    400078: LongToe2_R
+    400080: Lower_Pauldrons
+    400082: //RootNode
+    400084: Neck_M
+    400086: NeckPart1_M
+    400088: NeckPart2_M
+    400090: Right_Blade
+    400092: Root_M
+    400094: RootPart1_M
+    400096: RootPart2_M
+    400098: Scapula_L
+    400100: Scapula_R
+    400102: shaderAssign
+    400104: Spine1_M
+    400106: Spine1Part1_M
+    400108: Spine1Part2_M
+    400110: Toes2_L
+    400112: Toes2_R
+    400114: Toes_L
+    400116: Toes_R
+    400118: Upper_Pauldrons
+    4300000: Upper_Pauldrons
+    4300002: Lower_Pauldrons
+    4300004: Left_Blade
+    4300006: Right_Blade
+    4300008: Body
+    7400000: Attack
+    9500000: //RootNode
+    13700000: Body
+    13700002: Left_Blade
+    13700004: Lower_Pauldrons
+    13700006: Right_Blade
+    13700008: Upper_Pauldrons
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DeformationSystem
+        weight: 1
+      - path: DeformationSystem/Root_M
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_L
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_L/HipPart1_L
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Toes_L
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_R
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_R/HipPart1_R
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R
+        weight: 1
+      - path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Toes_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Eye_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Eye_L/EyeEnd_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Eye_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Eye_R/EyeEnd_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/HeadEnd_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Jaw_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Jaw_M/JawEnd_M
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Hip2_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Hip2_L/Hip2Part1_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Hip2_L/Hip2Part1_L/Hip2Part2_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Hip2_L/Hip2Part1_L/Hip2Part2_L/Elbow2_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Hip2_L/Hip2Part1_L/Hip2Part2_L/Elbow2_L/Elbow2Part1_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Hip2_L/Hip2Part1_L/Hip2Part2_L/Elbow2_L/Elbow2Part1_L/Elbow2Part2_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Hip2_L/Hip2Part1_L/Hip2Part2_L/Elbow2_L/Elbow2Part1_L/Elbow2Part2_L/Ankle2_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Hip2_L/Hip2Part1_L/Hip2Part2_L/Elbow2_L/Elbow2Part1_L/Elbow2Part2_L/Ankle2_L/Toes2_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Hip2_L/Hip2Part1_L/Hip2Part2_L/Elbow2_L/Elbow2Part1_L/Elbow2Part2_L/Ankle2_L/Toes2_L/LongToe2_L
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Hip2_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Hip2_R/Hip2Part1_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Hip2_R/Hip2Part1_R/Hip2Part2_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Hip2_R/Hip2Part1_R/Hip2Part2_R/Elbow2_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Hip2_R/Hip2Part1_R/Hip2Part2_R/Elbow2_R/Elbow2Part1_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Hip2_R/Hip2Part1_R/Hip2Part2_R/Elbow2_R/Elbow2Part1_R/Elbow2Part2_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Hip2_R/Hip2Part1_R/Hip2Part2_R/Elbow2_R/Elbow2Part1_R/Elbow2Part2_R/Ankle2_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Hip2_R/Hip2Part1_R/Hip2Part2_R/Elbow2_R/Elbow2Part1_R/Elbow2Part2_R/Ankle2_R/Toes2_R
+        weight: 1
+      - path: DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Hip2_R/Hip2Part1_R/Hip2Part2_R/Elbow2_R/Elbow2Part1_R/Elbow2Part2_R/Ankle2_R/Toes2_R/LongToe2_R
+        weight: 1
+      - path: geo
+        weight: 1
+      - path: geo/Body
+        weight: 1
+      - path: geo/Left_Blade
+        weight: 1
+      - path: geo/Lower_Pauldrons
+        weight: 1
+      - path: geo/Right_Blade
+        weight: 1
+      - path: geo/Upper_Pauldrons
+        weight: 1
+      - path: left
+        weight: 1
+      - path: shaderAssign
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

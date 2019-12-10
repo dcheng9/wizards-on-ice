@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 781aefb0a53e0384b9ff21886c312598
+timeCreated: 1488863452
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - IceShatter: {fileID: 8300000, guid: abef44d5c380d294ca2cf3ea1d78ca72, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

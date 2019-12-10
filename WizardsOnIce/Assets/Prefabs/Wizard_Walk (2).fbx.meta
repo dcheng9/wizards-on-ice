@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: ba76859e5460b46418fe247ed07e9942
+timeCreated: 1485079920
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beard
+    100002: Clavicle_JNT
+    100004: Clothes
+    100006: GEO_GRP
+    100008: HatBase_CTRL
+    100010: HatBase_JNT
+    100012: HatBaseOrient_GRP
+    100014: HatEnd_CTRL
+    100016: HatEnd_JNT
+    100018: HatEndOrient_GRP
+    100020: HatMid1_CTRL
+    100022: HatMid1_JNT
+    100024: HatMid1Orient_GRP
+    100026: HatMid2_CTRL
+    100028: HatMid2_JNT
+    100030: HatMid2Orient_GRP
+    100032: Head_CTRL
+    100034: HeadNeck_JNT
+    100036: HeadNeckOrient_GRP
+    100038: Hip_CTRL
+    100040: Hip_JNT
+    100042: HipsOrient_GRP
+    100044: LeftElbow_CTRL
+    100046: LeftElbow_JNT
+    100048: LeftElbowOrient_GRP
+    100050: LeftEye
+    100052: LeftFoot_CTRL
+    100054: LeftHand_CTRL
+    100056: LeftHand_JNT
+    100058: LeftHandOrient_GRP
+    100060: LeftHeel_CTRL
+    100062: LeftHeel_JNT
+    100064: LeftShoulder_CTRL
+    100066: LeftShoulder_JNT
+    100068: LeftShoulderOrient_GRP
+    100070: LeftToe_CTRL
+    100072: LeftToe_JNT
+    100074: Poof
+    100076: Right_Foot_CTRL
+    100078: RightElbow_CTRL
+    100080: RightElbow_JNT
+    100082: RightElbowOrient_GRP
+    100084: RightEye
+    100086: RightHand_CTRL
+    100088: RightHand_JNT
+    100090: RightHandOrient_GRP
+    100092: RightHeel_CTRL
+    100094: RightHeel_JNT
+    100096: RightShoulder_CTRL
+    100098: RightShoulder_JNT
+    100100: RightShoulderOrient_GRP
+    100102: RightToe_CTRL
+    100104: RightToe_JNT
+    100106: Root_CTRL
+    100108: Root_JNT
+    100110: RootOrient_GRP
+    100112: Skin
+    100114: Spine1_JNT
+    100116: Spine1Orient_GRP
+    100118: Spine2_JNT
+    100120: Spine2Orient_GRP
+    100122: Torso1_CTRL
+    100124: Torso2_CTRL
+    100126: UpperBody_CTRL
+    100128: UpperBodyOrient_GRP
+    100130: //RootNode
+    400000: Beard
+    400002: Clavicle_JNT
+    400004: Clothes
+    400006: GEO_GRP
+    400008: HatBase_CTRL
+    400010: HatBase_JNT
+    400012: HatBaseOrient_GRP
+    400014: HatEnd_CTRL
+    400016: HatEnd_JNT
+    400018: HatEndOrient_GRP
+    400020: HatMid1_CTRL
+    400022: HatMid1_JNT
+    400024: HatMid1Orient_GRP
+    400026: HatMid2_CTRL
+    400028: HatMid2_JNT
+    400030: HatMid2Orient_GRP
+    400032: Head_CTRL
+    400034: HeadNeck_JNT
+    400036: HeadNeckOrient_GRP
+    400038: Hip_CTRL
+    400040: Hip_JNT
+    400042: HipsOrient_GRP
+    400044: LeftElbow_CTRL
+    400046: LeftElbow_JNT
+    400048: LeftElbowOrient_GRP
+    400050: LeftEye
+    400052: LeftFoot_CTRL
+    400054: LeftHand_CTRL
+    400056: LeftHand_JNT
+    400058: LeftHandOrient_GRP
+    400060: LeftHeel_CTRL
+    400062: LeftHeel_JNT
+    400064: LeftShoulder_CTRL
+    400066: LeftShoulder_JNT
+    400068: LeftShoulderOrient_GRP
+    400070: LeftToe_CTRL
+    400072: LeftToe_JNT
+    400074: Poof
+    400076: Right_Foot_CTRL
+    400078: RightElbow_CTRL
+    400080: RightElbow_JNT
+    400082: RightElbowOrient_GRP
+    400084: RightEye
+    400086: RightHand_CTRL
+    400088: RightHand_JNT
+    400090: RightHandOrient_GRP
+    400092: RightHeel_CTRL
+    400094: RightHeel_JNT
+    400096: RightShoulder_CTRL
+    400098: RightShoulder_JNT
+    400100: RightShoulderOrient_GRP
+    400102: RightToe_CTRL
+    400104: RightToe_JNT
+    400106: Root_CTRL
+    400108: Root_JNT
+    400110: RootOrient_GRP
+    400112: Skin
+    400114: Spine1_JNT
+    400116: Spine1Orient_GRP
+    400118: Spine2_JNT
+    400120: Spine2Orient_GRP
+    400122: Torso1_CTRL
+    400124: Torso2_CTRL
+    400126: UpperBody_CTRL
+    400128: UpperBodyOrient_GRP
+    400130: //RootNode
+    4300000: Poof
+    4300002: Beard
+    4300004: Clothes
+    4300006: Skin
+    4300008: RightEye
+    4300010: LeftEye
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Beard
+    13700002: Clothes
+    13700004: LeftEye
+    13700006: Poof
+    13700008: RightEye
+    13700010: Skin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GEO_GRP
+        weight: 1
+      - path: GEO_GRP/Beard
+        weight: 1
+      - path: GEO_GRP/Clothes
+        weight: 1
+      - path: GEO_GRP/LeftEye
+        weight: 1
+      - path: GEO_GRP/Poof
+        weight: 1
+      - path: GEO_GRP/RightEye
+        weight: 1
+      - path: GEO_GRP/Skin
+        weight: 1
+      - path: Root_JNT
+        weight: 1
+      - path: Root_JNT/Hip_JNT
+        weight: 1
+      - path: Root_JNT/Hip_JNT/LeftHeel_JNT
+        weight: 1
+      - path: Root_JNT/Hip_JNT/LeftToe_JNT
+        weight: 1
+      - path: Root_JNT/Hip_JNT/RightHeel_JNT
+        weight: 1
+      - path: Root_JNT/Hip_JNT/RightToe_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/HeadNeck_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/HeadNeck_JNT/HatBase_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/HeadNeck_JNT/HatBase_JNT/HatMid1_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/HeadNeck_JNT/HatBase_JNT/HatMid1_JNT/HatMid2_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/HeadNeck_JNT/HatBase_JNT/HatMid1_JNT/HatMid2_JNT/HatEnd_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/LeftShoulder_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/LeftShoulder_JNT/LeftElbow_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftHand_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/RightShoulder_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/RightShoulder_JNT/RightElbow_JNT
+        weight: 1
+      - path: Root_JNT/Spine1_JNT/Spine2_JNT/Clavicle_JNT/RightShoulder_JNT/RightElbow_JNT/RightHand_JNT
+        weight: 1
+      - path: RootOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/HipsOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/HipsOrient_GRP/Hip_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/HipsOrient_GRP/Hip_CTRL/LeftFoot_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/HipsOrient_GRP/Hip_CTRL/LeftFoot_CTRL/LeftHeel_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/HipsOrient_GRP/Hip_CTRL/LeftFoot_CTRL/LeftToe_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/HipsOrient_GRP/Hip_CTRL/Right_Foot_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/HipsOrient_GRP/Hip_CTRL/Right_Foot_CTRL/RightHeel_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/HipsOrient_GRP/Hip_CTRL/Right_Foot_CTRL/RightToe_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP/Head_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP/Head_CTRL/HatBaseOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP/Head_CTRL/HatBaseOrient_GRP/HatBase_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP/Head_CTRL/HatBaseOrient_GRP/HatBase_CTRL/HatMid1Orient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP/Head_CTRL/HatBaseOrient_GRP/HatBase_CTRL/HatMid1Orient_GRP/HatMid1_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP/Head_CTRL/HatBaseOrient_GRP/HatBase_CTRL/HatMid1Orient_GRP/HatMid1_CTRL/HatMid2Orient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP/Head_CTRL/HatBaseOrient_GRP/HatBase_CTRL/HatMid1Orient_GRP/HatMid1_CTRL/HatMid2Orient_GRP/HatMid2_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP/Head_CTRL/HatBaseOrient_GRP/HatBase_CTRL/HatMid1Orient_GRP/HatMid1_CTRL/HatMid2Orient_GRP/HatMid2_CTRL/HatEndOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/HeadNeckOrient_GRP/Head_CTRL/HatBaseOrient_GRP/HatBase_CTRL/HatMid1Orient_GRP/HatMid1_CTRL/HatMid2Orient_GRP/HatMid2_CTRL/HatEndOrient_GRP/HatEnd_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/LeftShoulderOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/LeftShoulderOrient_GRP/LeftShoulder_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/LeftShoulderOrient_GRP/LeftShoulder_CTRL/LeftElbowOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/LeftShoulderOrient_GRP/LeftShoulder_CTRL/LeftElbowOrient_GRP/LeftElbow_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/LeftShoulderOrient_GRP/LeftShoulder_CTRL/LeftElbowOrient_GRP/LeftElbow_CTRL/LeftHandOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/LeftShoulderOrient_GRP/LeftShoulder_CTRL/LeftElbowOrient_GRP/LeftElbow_CTRL/LeftHandOrient_GRP/LeftHand_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/RightShoulderOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/RightShoulderOrient_GRP/RightShoulder_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/RightShoulderOrient_GRP/RightShoulder_CTRL/RightElbowOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/RightShoulderOrient_GRP/RightShoulder_CTRL/RightElbowOrient_GRP/RightElbow_CTRL
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/RightShoulderOrient_GRP/RightShoulder_CTRL/RightElbowOrient_GRP/RightElbow_CTRL/RightHandOrient_GRP
+        weight: 1
+      - path: RootOrient_GRP/Root_CTRL/Spine1Orient_GRP/Torso1_CTRL/Spine2Orient_GRP/Torso2_CTRL/UpperBodyOrient_GRP/UpperBody_CTRL/RightShoulderOrient_GRP/RightShoulder_CTRL/RightElbowOrient_GRP/RightElbow_CTRL/RightHandOrient_GRP/RightHand_CTRL
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7.74
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

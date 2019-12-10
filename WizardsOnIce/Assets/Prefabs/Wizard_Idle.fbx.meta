@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 2d17e07a7776c1d48bc520e94f7d97ed
+timeCreated: 1485078833
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beard
+    100002: Clavicle_JNT
+    100004: Clothes
+    100006: GEO_GRP
+    100008: HatBase_JNT
+    100010: HatEnd_JNT
+    100012: HatMid1_JNT
+    100014: HatMid2_JNT
+    100016: HeadNeck_JNT
+    100018: Hip_JNT
+    100020: LeftElbow_JNT
+    100022: LeftEye
+    100024: LeftHand_JNT
+    100026: LeftShoulder_JNT
+    100028: Poof
+    100030: RightElbow_JNT
+    100032: RightEye
+    100034: RightHand_JNT
+    100036: RightShoulder_JNT
+    100038: Root_JNT
+    100040: Skin
+    100042: Spine1_JNT
+    100044: Spine2_JNT
+    100046: //RootNode
+    400000: Beard
+    400002: Clavicle_JNT
+    400004: Clothes
+    400006: GEO_GRP
+    400008: HatBase_JNT
+    400010: HatEnd_JNT
+    400012: HatMid1_JNT
+    400014: HatMid2_JNT
+    400016: HeadNeck_JNT
+    400018: Hip_JNT
+    400020: LeftElbow_JNT
+    400022: LeftEye
+    400024: LeftHand_JNT
+    400026: LeftShoulder_JNT
+    400028: Poof
+    400030: RightElbow_JNT
+    400032: RightEye
+    400034: RightHand_JNT
+    400036: RightShoulder_JNT
+    400038: Root_JNT
+    400040: Skin
+    400042: Spine1_JNT
+    400044: Spine2_JNT
+    400046: //RootNode
+    4300000: Poof
+    4300002: Beard
+    4300004: Clothes
+    4300006: Skin
+    4300008: RightEye
+    4300010: LeftEye
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Beard
+    13700002: Clothes
+    13700004: LeftEye
+    13700006: Poof
+    13700008: RightEye
+    13700010: Skin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
